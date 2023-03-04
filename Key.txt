@@ -1,3 +1,0 @@
-{
-"admin": "KAEPL-IBDPP-WQYGN-PMUS"
-}
